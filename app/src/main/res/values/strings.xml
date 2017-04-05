@@ -1,0 +1,168 @@
+<resources>
+    <!--menu options-->
+    <string name="app_name">Learning Android</string>
+    <string name="action_settings">Settings</string>
+    <string name="action_Result">Activity Result</string>
+    <string name="action_fragment">Fragment</string>
+    <string name="action_other">Other</string>
+    <string name="action_exit">Exit</string>
+
+    <string name="action_showActivity2">Show Activity 2</string>
+    <string name="action_showActivity3">Show Activity 3</string>
+    <string name="action_showToast">Show Toast</string>
+    <string name="action_close">Close</string>
+
+
+    <string name="activity2_textView">This is Activity 2</string>
+    <string name="activity3_textView">This is Activity 3</string>
+    <string name="thisIsAToast">This is a Toast</string>
+    <string name="bottomTextView">Bottom Text View</string>
+    <string name="secondTopTextView">Second Top Text View</string>
+    <string name="firstTopTextView">First Top Text View</string>
+    <string name="clickMe">Click Me!</string>
+    <string name="topSecondButton">Second</string>
+    <string name="topFirstButton">First</string>
+    <string name="button_1">Button 1</string>
+    <string name="button_2">Button 2</string>
+    <string name="provideInfoButton">Provide Information</string>
+    <string name="takePictureButton">Take Picture</string>
+    <string name="sendButton">Send</string>
+    <string name="doneButton">Done</string>
+
+    <!--&lt;!&ndash; TODO: Remove or change this placeholder text &ndash;&gt;-->
+    <!--<string name="android_fragments_title">Improving User Interface Design with Android Fragments</string>-->
+    <!--<string name="android_fragments_description">Fragments now replace Activities as the primary canvas for UI design. Fragments address a number of key UI design issues. In this course we discuss how to use Fragments to improve your app’s adaptability to device differences, provider better UI modularization, and much more.</string>-->
+    <!--<string name="android_intents_title">Android Programming with Intents</string>-->
+    <!--<string name="android_intents_description">Virtually all interactivity between Android components occurs through a special messaging concept known as intents. In this course you will learn how to work effectively with and capitalize on the many capabilities of the Android platform provided through intents.</string>-->
+    <!--<string name="android_action_bar_title">Improving UI Interaction with Android ActionBar</string>-->
+    <!--<string name="android_action_bar_description">The ActionBar incorporates a variety of previously disparate user interaction concepts into a single control. The ActionBar provides one-stop shopping for menu management, home and back behavior, tabbed displays, screen layout adaptability, and many more user interaction concepts.</string>-->
+    <!--<string name="android_photo_video_title">Android Photo and Video Programming</string>-->
+    <!--<string name="android_photo_video_description">In this course we discuss how to capitalize on the Android camera within your apps to capture still photos and video. We look at both the simple case of leveraging the built-in camera app and the more detailed scenario of direct camera control.</string>-->
+    <!--<string name="android_4_features_title">Android 4.0 New Features</string>-->
+    <!--<string name="android_4_features_description">Android 4.0 includes a number of new developer features that improve the ability for applications to support a wide variety of devices and enhance developer productivity. In this course we will exam many of these new features including Android user interface Fragments, the ActionBar, networking features, and the new Calendar API.</string>-->
+    <!--<string name="android_location_apps_title">Android Location-Based Apps</string>-->
+    <!--<string name="android_location_apps_description">In this course we cover the wide range of location capabilities of the Android platform including determining user location, power management, translating location data into human-readable street addresses, and much more.</string>-->
+    <!--<string name="android_async_services_title">Android Async Programming and Services</string>-->
+    <!--<string name="android_async_services_description">In this course you will learn how to use Android services and asynchronous processing to create apps that provide a more responsive UX. Topics covered include Android Services, background processing, threading, asynch tasks, Started Services, Foreground Services, Notifications, Android Service lifecycle, and ExecutorService.</string>-->
+    <!--<string name="action_traverse_view_hierarchy">Traverse View Hierarchy</string>-->
+    <!--<string name="android_fragments_title1">Fragment Title 1</string>-->
+    <!--<string name="android_fragments_title2">Fragment Title 2</string>-->
+    <!--<string name="android_fragments_title3">Fragment Title 3</string>-->
+
+    <!--<string name="android_fragments_description1">Fragment Description 1</string>-->
+    <!--<string name="android_fragments_description2">Fragment Description 2</string>-->
+    <!--<string name="android_fragments_description3">Fragment Description 3</string>-->
+
+    <string name="title_activity_scrolling">Scrolling Activity</string>
+    <string name="title_activity_tabbed">Tabbed Activity</string>
+    <string name="section_format">Hello World from section: %1$d</string>
+    <string name="action_tabbed">Tabbed</string>
+
+
+    <string name="large_text">
+        "Material is the metaphor.\n\n"
+
+        "A material metaphor is the unifying theory of a rationalized space and a system of motion."
+        "The material is grounded in tactile reality, inspired by the study of paper and ink, yet "
+        "technologically advanced and open to imagination and magic.\n"
+        "Surfaces and edges of the material provide visual cues that are grounded in reality. The "
+        "use of familiar tactile attributes helps users quickly understand affordances. Yet the "
+        "flexibility of the material creates new affordances that supercede those in the physical "
+        "world, without breaking the rules of physics.\n"
+        "The fundamentals of light, surface, and movement are key to conveying how objects move, "
+        "interact, and exist in space and in relation to each other. Realistic lighting shows "
+        "seams, divides space, and indicates moving parts.\n\n"
+
+        "Bold, graphic, intentional.\n\n"
+
+        "The foundational elements of print based design typography, grids, space, scale, color, "
+        "and use of imagery guide visual treatments. These elements do far more than please the "
+        "eye. They create hierarchy, meaning, and focus. Deliberate color choices, edge to edge "
+        "imagery, large scale typography, and intentional white space create a bold and graphic "
+        "interface that immerse the user in the experience.\n"
+        "An emphasis on user actions makes core functionality immediately apparent and provides "
+        "waypoints for the user.\n\n"
+
+        "Motion provides meaning.\n\n"
+
+        "Motion respects and reinforces the user as the prime mover. Primary user actions are "
+        "inflection points that initiate motion, transforming the whole design.\n"
+        "All action takes place in a single environment. Objects are presented to the user without "
+        "breaking the continuity of experience even as they transform and reorganize.\n"
+        "Motion is meaningful and appropriate, serving to focus attention and maintain continuity. "
+        "Feedback is subtle yet clear. Transitions are efﬁcient yet coherent.\n\n"
+
+        "3D world.\n\n"
+
+        "The material environment is a 3D space, which means all objects have x, y, and z "
+        "dimensions. The z-axis is perpendicularly aligned to the plane of the display, with the "
+        "positive z-axis extending towards the viewer. Every sheet of material occupies a single "
+        "position along the z-axis and has a standard 1dp thickness.\n"
+        "On the web, the z-axis is used for layering and not for perspective. The 3D world is "
+        "emulated by manipulating the y-axis.\n\n"
+
+        "Light and shadow.\n\n"
+
+        "Within the material environment, virtual lights illuminate the scene. Key lights create "
+        "directional shadows, while ambient light creates soft shadows from all angles.\n"
+        "Shadows in the material environment are cast by these two light sources. In Android "
+        "development, shadows occur when light sources are blocked by sheets of material at "
+        "various positions along the z-axis. On the web, shadows are depicted by manipulating the "
+        "y-axis only. The following example shows the card with a height of 6dp.\n\n"
+
+        "Resting elevation.\n\n"
+
+        "All material objects, regardless of size, have a resting elevation, or default elevation "
+        "that does not change. If an object changes elevation, it should return to its resting "
+        "elevation as soon as possible.\n\n"
+
+        "Component elevations.\n\n"
+
+        "The resting elevation for a component type is consistent across apps (e.g., FAB elevation "
+        "does not vary from 6dp in one app to 16dp in another app).\n"
+        "Components may have different resting elevations across platforms, depending on the depth "
+        "of the environment (e.g., TV has a greater depth than mobile or desktop).\n\n"
+
+        "Responsive elevation and dynamic elevation offsets.\n\n"
+
+        "Some component types have responsive elevation, meaning they change elevation in response "
+        "to user input (e.g., normal, focused, and pressed) or system events. These elevation "
+        "changes are consistently implemented using dynamic elevation offsets.\n"
+        "Dynamic elevation offsets are the goal elevation that a component moves towards, relative "
+        "to the component’s resting state. They ensure that elevation changes are consistent "
+        "across actions and component types. For example, all components that lift on press have "
+        "the same elevation change relative to their resting elevation.\n"
+        "Once the input event is completed or cancelled, the component will return to its resting "
+        "elevation.\n\n"
+
+        "Avoiding elevation interference.\n\n"
+
+        "Components with responsive elevations may encounter other components as they move between "
+        "their resting elevations and dynamic elevation offsets. Because material cannot pass "
+        "through other material, components avoid interfering with one another any number of ways, "
+        "whether on a per component basis or using the entire app layout.\n"
+        "On a component level, components can move or be removed before they cause interference. "
+        "For example, a floating action button (FAB) can disappear or move off screen before a "
+        "user picks up a card, or it can move if a snackbar appears.\n"
+        "On the layout level, design your app layout to minimize opportunities for interference. "
+        "For example, position the FAB to one side of stream of a cards so the FAB won’t interfere "
+        "when a user tries to pick up one of cards.\n\n"
+    </string>
+    <string name="action_view">View</string>
+    <string name="action_contents">Contents</string>
+    <string name="action_description">Description</string>
+    <string name="action_assessment">Assessment</string>
+    <string name="action_exercises">Exercises</string>
+    <string name="action_refs">References</string>
+    <string name="title_activity_course_actions">Course Actions</string>
+
+
+    <string name="open_drawer_message">Open course categories</string>
+    <string name="close_drawer_message">Close course categories</string>
+
+    <!--battery -->
+    <string name="hello_world">Hello world!</string>
+    <string name="action_start_battery_log">Start battery log</string>
+    <string name="action_stop_battery_log">Stop battery log</string>
+
+</resources>

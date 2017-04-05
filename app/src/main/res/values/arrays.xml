@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="navigation_drawer_options">
+        <item>Android</item>
+        <item>iOS</item>
+        <item>Windows Phone</item>
+    </string-array>
+    <!--<string-array name="course_title">-->
+        <!--<item>@string/android_fragments_title1</item>-->
+        <!--<item>@string/android_fragments_title2</item>-->
+        <!--<item>@string/android_fragments_title3</item>-->
+    <!--</string-array>-->
+
+    <!--<string-array name="course_description">-->
+        <!--<item>@string/android_fragments_description1</item>-->
+        <!--<item>@string/android_fragments_description2</item>-->
+        <!--<item>@string/android_fragments_description3</item>-->
+    <!--</string-array>-->
+
+        <!-- Course Titles -->
+        <!--<string-array name="course_titles">-->
+            <!--<item>@string/android_fragments_title</item>-->
+            <!--<item>@string/android_intents_title</item>-->
+            <!--<item>@string/android_action_bar_title</item>-->
+            <!--<item>@string/android_photo_video_title</item>-->
+            <!--<item>@string/android_4_features_title</item>-->
+            <!--<item>@string/android_location_apps_title</item>-->
+            <!--<item>@string/android_async_services_title</item>-->
+        <!--</string-array>-->
+
+        <!--&lt;!&ndash; Course Descriptions &ndash;&gt;-->
+        <!--<string-array name="course_descriptions">-->
+            <!--<item>@string/android_fragments_description</item>-->
+            <!--<item>@string/android_intents_description</item>-->
+            <!--<item>@string/android_action_bar_description</item>-->
+            <!--<item>@string/android_photo_video_description</item>-->
+            <!--<item>@string/android_4_features_description</item>-->
+            <!--<item>@string/android_location_apps_description</item>-->
+            <!--<item>@string/android_async_services_description</item>-->
+        <!--</string-array>-->
+
+</resources>
